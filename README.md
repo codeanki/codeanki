@@ -2,12 +2,12 @@
 
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning NodeJS, ExpressJS And ReactJS.
-- 👯 I’m looking to collaborate on fronend development projects
-- 🤔 I’m looking for help with learning mongoDB and ExpressJS
+- 🌱 I’m currently learning MongoDB, Node.js Express.js And React.js.
+- 👯 I’m looking to collaborate on Mern Stack Development projects
+- 🤔 I’m looking for help with learning React.js Hooks, Routers And Redux.
 - 💬 Ask me about #dsa #coding #softwaredevelopment #mernstack #problemsolving
 - 📫 How to reach me: ankit.yadav8903@gmail.com
-- 😄 Pronouns: He/him
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact: ...
 
         
